@@ -12,3 +12,5 @@
 * Paste the firebase credentials on firebase.ts in client
 * Get stripe credentials and now you area good to go.
 
+  1
+
